@@ -1,2 +1,2 @@
 # thetestrepo
-Just getting started with github-initial rep
+Just getting started with github-initial repo
